@@ -1,1 +1,12 @@
 pandas
+numpy
+yfinance
+requests>=2.31.0
+schedule
+fastapi
+uvicorn
+aiohttp
+pymysql
+mysql.connector
+python-dotenv
+datetime
