@@ -5,9 +5,8 @@ import pymysql
 from pymysql.err import MySQLError
 from dotenv import load_dotenv
 import requests
-import yfinance as yf
 from datetime import datetime
-
+import pandas as pd
 app = FastAPI()
 
 load_dotenv()
